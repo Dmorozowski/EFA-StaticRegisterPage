@@ -48,6 +48,10 @@ body {
   padding: 40px;
 }
 
+.field {
+  width: 90%;
+}
+
 .button {
   background-color: #0280ff;
   color: white;
